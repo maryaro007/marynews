@@ -1,0 +1,42 @@
+body {
+	background: pink;
+}
+
+h1 {
+	font-family: "Arial";
+	background: white;
+	color: FF1493;
+	text-align: center;
+	padding: 5px;
+	margin
+}
+
+h3 {
+	font-family: "Arial";
+	color: FF1493;
+	text-align: center;
+}body {
+	background: pink;
+}
+
+.titulo {
+	text-align: center;
+}
+
+.paragrafo {
+	text-align: justify;
+	width: 1000px;
+	margin: 20 auto;
+}
+
+.imagem {
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+}
+
+.video {
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+}
